@@ -81,3 +81,14 @@ h1{
   background-color: white;
   color: black;
 }
+
+
+.country{
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.city{
+  font-size: 3rem;
+  font-weight: 600;
+}
